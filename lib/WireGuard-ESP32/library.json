@@ -1,0 +1,7 @@
+{
+  "name": "WireGuard-ESP32",
+  "version": "0.1.5-esp3",
+  "description": "WireGuard pour ESP32 (Kenta Ida, BSD-3-Clause) - copie adaptee a Arduino-ESP32 3.x (tcpip_adapter remplace par esp_netif)",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}

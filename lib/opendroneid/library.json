@@ -1,0 +1,7 @@
+{
+  "name": "opendroneid",
+  "version": "1.0.0",
+  "description": "Open Drone ID core C library (decodage ASTM F3411) - copie de opendroneid-core-c, Apache-2.0",
+  "frameworks": "*",
+  "platforms": "*"
+}
